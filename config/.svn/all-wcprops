@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/config
+END
+dev.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/config/dev.env.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jcxx-inner/!svn/ver/36583/project/coach/mcoach/config/index.js
+END
+prod.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/config/prod.env.js
+END

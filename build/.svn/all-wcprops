@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build
+END
+vue-loader.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/vue-loader.conf.js
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/logo.png
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/webpack.base.conf.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/utils.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jcxx-inner/!svn/ver/35666/project/coach/mcoach/build/webpack.prod.conf.js
+END
